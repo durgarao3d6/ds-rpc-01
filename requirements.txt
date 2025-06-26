@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+openai
+langchain
+tiktoken
+chromadb
+python-dotenv
+pydantic
